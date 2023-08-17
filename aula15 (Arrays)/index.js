@@ -9,7 +9,7 @@ console.log(alunos instanceof Array); //-->se retornar true, é um Arrayddd
 // console.log(alunos.slice(0 , 3)); //exibe os índices 0, 1 e 2
 // console.log(alunos.slice(0 , -2)); //exibe o array menos os 2 últimos índices
 
-// OBS: acessar um valoe que não existe retonará undefined
+// OBS: acessar um valor que não existe retonará undefined
 // delete alunos [1];//deleta o índice informado do array, ficando um espaço vazio (undefined)
 console.log(alunos);
 
