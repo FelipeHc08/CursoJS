@@ -4,7 +4,7 @@
 //                0        1        2
 const alunos = ['Luiz', 'Maria', 'João', 'José']; //OBS: os parâmetros do objeto const podem ser alterados, já o identificador da variável, não.
 
-console.log(typeof(alunos));//OBS --> Array em JS pe objeto.
+console.log(typeof(alunos));//OBS --> Array em JS é objeto.
 console.log(alunos instanceof Array); //-->se retornar true, é um Arrayddd
 // console.log(alunos.slice(0 , 3)); //exibe os índices 0, 1 e 2
 // console.log(alunos.slice(0 , -2)); //exibe o array menos os 2 últimos índices

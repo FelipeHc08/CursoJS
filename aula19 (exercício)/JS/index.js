@@ -3,7 +3,7 @@ function meuEscopo() {
     const form = document.querySelector('.form');
     // Obtém o elemento HTML com a classe "resultado"
     const resultado = document.querySelector('.resultado');
-
+ 
     // Cria um array vazio chamado "pessoas"
     const pessoas = [];
     
